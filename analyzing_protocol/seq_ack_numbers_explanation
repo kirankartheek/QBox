@@ -1,0 +1,2 @@
+seq=ack+length
+ack=seq+length

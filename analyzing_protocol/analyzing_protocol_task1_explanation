@@ -1,0 +1,1 @@
+Ping command can only know about the public ip address in which destination host is present.Where as ifconfig command returns the IP4 address/Private ip address of the destination host.The IP address starting from 192.168.0.0 to 192.168.255.255 are assigned for Private IP address.This is clearly seen from the ifconfig command output.
