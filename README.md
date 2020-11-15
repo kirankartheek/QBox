@@ -22,7 +22,8 @@ What you could use Linux additionally for - https://lifehacker.com/top-10-uses-f
 ## **Module2**
 Memory usage and page cache  - https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/5/html/tuning_and_optimizing_red_hat_enterprise_linux_for_oracle_9i_and_10g_databases/chap-oracle_9i_and_10g_tuning_guide-memory_usage_and_page_cache
 
-Swap space - https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/5/html/tuning_and_optimizing_red_hat_enterprise_linux_for_oracle_9i_and_10g_databases/chap-oracle_9i_and_10g_tuning_guide-swap_space
+Swap space - https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/5/html/tuning_and_optimizing_red_hat_enterprise_linux_for_oracle_9i_and_10g_databases/chap-oracle_9i_and_10g_tuning_guide-swap_space 
+
 Learn more about the ways to find CPU cores on the Server: How to find the number of CPU cores? - https://askubuntu.com/questions/724228/how-to-find-the-number-of-cpu-cores-including-virtual
 
 Learn to analyze CPU load on a Linux machine: How to calculate idle CPU? - https://supportcenter.checkpoint.com/supportcenter/portal?eventSubmit_doGoviewsolutiondetails=&solutionid=sk65143
