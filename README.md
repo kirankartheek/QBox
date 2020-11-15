@@ -20,18 +20,19 @@ What does Linux power - https://www.omgubuntu.co.uk/2016/08/25-awesome-unexpecte
 
 What you could use Linux additionally for - https://lifehacker.com/top-10-uses-for-linux-even-if-your-main-pc-runs-window-1513172815 
 ## **Module2**
-https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/5/html/tuning_and_optimizing_red_hat_enterprise_linux_for_oracle_9i_and_10g_databases/chap-oracle_9i_and_10g_tuning_guide-memory_usage_and_page_cache
-https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/5/html/tuning_and_optimizing_red_hat_enterprise_linux_for_oracle_9i_and_10g_databases/chap-oracle_9i_and_10g_tuning_guide-swap_space
-Learn more about the ways to find CPU cores on the Server: How to find the number of CPU cores?(https://askubuntu.com/questions/724228/how-to-find-the-number-of-cpu-cores-including-virtual) 
+Memory usage and page cache  - https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/5/html/tuning_and_optimizing_red_hat_enterprise_linux_for_oracle_9i_and_10g_databases/chap-oracle_9i_and_10g_tuning_guide-memory_usage_and_page_cache
 
-Learn to analyze CPU load on a Linux machine: How to calculate idle CPU? 
+Swap space - https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/5/html/tuning_and_optimizing_red_hat_enterprise_linux_for_oracle_9i_and_10g_databases/chap-oracle_9i_and_10g_tuning_guide-swap_space
+Learn more about the ways to find CPU cores on the Server: How to find the number of CPU cores? - https://askubuntu.com/questions/724228/how-to-find-the-number-of-cpu-cores-including-virtual
 
-Learn more about file system and directory structure in Linux: Thorough understanding of Linux file systems 
+Learn to analyze CPU load on a Linux machine: How to calculate idle CPU? - https://supportcenter.checkpoint.com/supportcenter/portal?eventSubmit_doGoviewsolutiondetails=&solutionid=sk65143
 
-Learn to check OS version in Linux: How to check OS version in Linux command line? 
+Learn more about file system and directory structure in Linux: Thorough understanding of Linux file systems -https://opensource.com/life/16/10/introduction-linux-filesystems
 
-Example configuration specification - Configuration for Portal Server 
+Learn to check OS version in Linux: How to check OS version in Linux command line? - https://www.cyberciti.biz/faq/how-to-check-os-version-in-linux-command-line/
 
-Example tool to monitor process resource usage - Sample process monitoring 
+Example configuration specification - Configuration for Portal Server https://docs.oracle.com/cd/E19541-01/820-2053/gedjt/index.html
 
-Oracle database installation checks - Oracle DB Checks 
+Example tool to monitor process resource usage - Sample process monitoring  https://www.elastic.co/guide/en/beats/metricbeat/current/metricbeat-module-system.html
+
+Oracle database installation checks - Oracle DB Checks https://docs.oracle.com/en/database/oracle/oracle-database/12.2/ladbi/checking-server-hardware-and-memory-configuration.html
